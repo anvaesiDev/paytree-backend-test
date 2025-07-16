@@ -1,0 +1,10 @@
+
+{
+	"name": "paytree-backend-test",
+	"version": "1.0.0",
+	"description": "A simple serverless function backend.",
+	"main": "api/create-payment.js",
+	"scripts": {
+	  "start": "vercel dev"
+	}
+  }
